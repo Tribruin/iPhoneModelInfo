@@ -12,7 +12,7 @@ To add please use the following formats:
 }
 ```
 
-For example:
+Example:
 ```
 {
     "iPhone12,3" : "iPhone 11 Pro"
@@ -27,11 +27,11 @@ For example:
      "<color1Identifier>" : "Color 1",
      "<color2Identifier>" : "Color 2", 
      etc....
- }
+    }
 }
 ```
 
-For example
+Example:
 ```
 {
     "iPhone12,3" : {
