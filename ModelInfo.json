@@ -1,5 +1,64 @@
 {
   "Models": {
+    "iPad1,1": "iPad",
+    "iPad2,1": "iPad 2",
+    "iPad2,2" : "iPad 2", 
+    "iPad2,3" : "iPad 2", 
+    "iPad2,4" : "iPad 2",
+    "iPad2,5" : "iPad Mini",
+    "iPad2,6" : "iPad Mini",
+    "iPad2,7" : "iPad Mini",
+    "iPad3,1" : "iPad (3rd Gen)",
+    "iPad3,2" : "iPad (3rd Gen)",
+    "iPad3,3" : "iPad (3rd Gen)",
+    "iPad3,4" : "iPad (4th Gen)",
+    "iPad3,5" : "iPad (4th Gen)",
+    "iPad3,6" : "iPad (4th Gen)",
+    "iPad4,4" : "iPad Mini 2",
+    "iPad4,5" : "iPad Mini 2",
+    "iPad4,6" : "iPad Mini 2",
+    "iPad4,7" : "iPad Mini 3",
+    "iPad4,8" : "iPad Mini 3",
+    "iPad4,9" : "iPad Mini 3",
+    "iPad5,1": "iPad Mini 4",
+    "iPad5,2": "iPad Mini 4",
+    "iPad6,3" : "iPad Pro (9.7in)",
+    "iPad6,4" : "iPad Pro (9.7in)",
+    "iPad6,7" : "iPad Pro (12.9in)",
+    "iPad6,8": "iPad Pro (12.9in)",
+    "iPad6,11" : "iPad (5th Gen)",
+    "iPad6,12" : "iPad (5th Gen)",
+    "iPad7,1" : "iPad (12.9in - 2nd Gen)",
+    "iPad7,2" : "iPad (12.9in - 2nd Gen)",
+    "iPad7,3" : "iPad (10.5in)",
+    "iPad7,4" : "iPad (10.5in)",
+    "iPad7,5" : "iPad (6th Gen)",
+    "iPad7,6" : "iPad (6th Gen)",
+    "iPad7,11" : "iPad (7th Gen)",
+    "iPad7,12" : "iPad (7th Gen)",
+    "iPad8,1" : "iPad (11in)",
+    "iPad8,2" : "iPad (11in)",
+    "iPad8,3" : "iPad (11in)",
+    "iPad8,4" : "iPad (11in)",
+    "iPad8,5" : "iPad (12.9in - 3rd Gen)",
+    "iPad8,6" : "iPad (12.9in - 3rd Gen)",
+    "iPad8,7" : "iPad (12.9in - 3rd Gen)",
+    "iPad8,8" : "iPad (12.9in - 3rd Gen)",
+    "iPad11,1" : "iPad Mini (5th Gen)",
+    "iPad11,2" : "iPad Mini (5th Gen)",
+    "iPhone1,1" : "iPhone",
+    "iPhone1,2" : "iPhone 3G",
+    "iPhone2,1" : "iPhone 3GS",
+    "iPhone3,1" : "iPhone 4",
+    "iPhone3,2" : "iPhone 4",
+    "iPhone3,3" : "iPhone 4",
+    "iPhone4,1" : "iPhone 4S",
+    "iPhone5,1" : "iPhone 5",
+    "iPhone5,2" : "iPhone 5",
+    "iPhone5,3" : "iPhone 5c",
+    "iPhone5,4" : "iPhone 5c",
+    "iPhone6,1" : "iPhone 5s",
+    "iPhone6,2" : "iPhone 5s",
     "iPhone7,1": "iPhone 6 Plus",
     "iPhone7,2": "iPhone 6",
     "iPhone8,1": "iPhone 6s",
@@ -20,9 +79,8 @@
     "iPhone11,6": "iPhone XS Max",
     "iPhone12,1": "iPhone 11",
     "iPhone12,3": "iPhone 11 Pro",
-    "iPhone12,5": "iPhone 11 Pro Max",
-    "iPad5,1": "iPad 4 Mini",
-    "iPad7,4": "iPad Pro 10.5 Wifi/Cellular"
+    "iPhone12,5": "iPhone 11 Pro Max"
+
   },
   "Colors": {
     "iPad5,1": {
@@ -31,21 +89,11 @@
         "2": "Space Grey"
       }
     },
-    "iPhone7,1": {
-      
-    },
-    "iPhone7,2": {
-
-    },
-    "iPhone8,1": {
-
-    },
-    "iPhone8,2": {
-
-    },
-    "iPhone8,4": {
-
-    },
+    "iPhone7,1": {},
+    "iPhone7,2": {},
+    "iPhone8,1": {},
+    "iPhone8,2": {},
+    "iPhone8,4": {},
     "iPhone9,1": {
       "1": "Black"
     },
@@ -70,24 +118,14 @@
     "iPhone10,5": {
       "8": "Space Grey"
     },
-    "iPhone10,3": {
-
-    },
-    "iPhone10,6": {
-
-    },
+    "iPhone10,3": {},
+    "iPhone10,6": {},
     "iPhone11,8": {
       "1": "Black"
     },
-    "iPhone11,2": {
-
-    },
-    "iPhone11,6": {
-
-    },
-    "iPhone12,1": {
-
-    },
+    "iPhone11,2": {},
+    "iPhone11,6": {},
+    "iPhone12,1": {},
     "iPhone12,3": {
       "1": "Space Grey"
     },
