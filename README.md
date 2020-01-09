@@ -10,7 +10,7 @@ To add please use the following formats:
 { 
     "<deviceType>" : "<Model Name>"
 }
-    ```
+```
 
 For example:
 ```
