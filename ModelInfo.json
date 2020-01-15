@@ -133,6 +133,7 @@
       "1": "Space Grey"
     }
   },
+
   "ColorsBySN" : {
       "Space Grey" : [
         "JCL6", "JCL8", "JCLC",             
@@ -148,7 +149,28 @@
         "N6XM", "N6Y2", "N6YH",
         "N70M", "N712", "N706",
         "N70H", "N70X", "N702",
-        "N70C", "N70R", "N6YX"
+        "N70C", "N70R", "N6YX",
+        "G5MK", "G5MW",
+        "G5MG", "G5MR",
+        "HYFK", "HXR5",
+        "G5MC", "G5MN",
+        "G51M", "G5R0",
+        "G5QJ", "G5QV",
+        "G5QF", "G5QQ",
+        "GRY1", "GRYR",
+        "GRXW", "GRY9",
+        "HFLM", "HFLR",
+        "GRXQ", "GRY5",
+        "GRX7", "GRX8",
+        "GRWT", "GRWV",
+        "HFLX", "HFM2",
+        "GRWD", "GRWF",
+        "JC6K", "JC6R", "JC6N",
+        "N1N0", "N1N4", "N1MW",
+        "JC67", "JC6G", "JC6C",
+        "JCLQ", "JCLV", "JCLM",
+        "N1YT", "N1YX", "N1YP",
+        "JCM2", "JCM5", "JCLY"
       ],
       "Silver" : [
         "JCL7", "JCL9", "JCLD",
@@ -164,7 +186,33 @@
         "N6XN", "N6Y3", "N6YJ",
         "N70N", "N713", "N707",
         "N70J", "N70Y", "N703", 
-        "N70D", "N70T", "N6YY"
+        "N70D", "N70T", "N6YY",
+        "G5ML", "G5MY",
+        "G5MH", "G5MT",
+        "G5MD", "G5MP",
+        "G5QN", "G5R1",
+        "G5QK", "G5QW",
+        "G5QG", "G5QR",
+        "GRY2", "GRYH",
+        "GRXX", "GRYC",
+        "HFLM", "HFLR", 
+        "GRXR", "GRY6",
+        "GRXC", "GRXD",
+        "GRWX", "GRWY",
+        "HFLX", "HFM3", 
+        "GRWH", "GRWJ",
+        "HG7T", "HG89", "HG78",
+        "HG7L", "HG83", "HG72",
+        "HG7G", "HG7Y", "HG6X",
+        "HGY6", "HGYV", "HGY3",
+        "HGY8", "HFYM", "HFXX",
+        "HG05", "HG09", "HG01",
+        "JC6L", "JC6T", "JC6P",
+        "N1N1", "N1N5", "N1MX",
+        "JC68", "JC6H", "JC6D",
+        "JCLR", "JCLW", "JCLN", 
+        "N1YV", "N1YY", "N1YQ",
+        "JCM3", "JCM6", "JCM0"
       ], 
       "Gold" : [
         "KPG0", "KPG9", "KPGM", "KPH0",
@@ -178,8 +226,59 @@
         "N6XP", "N6Y4", "N6YK",
         "N70P", "N714", "N708",
         "N70K", "N710", "N704", 
-        "N70F", "N70V", "N700"
+        "N70F", "N70V", "N700",
+        "G5MM", "G5N0",
+        "G5MJ", "G5MV",
+        "HYFL", "HXR6",
+        "G5MF", "G5MQ",
+        "G5QP", "G5R2",
+        "G5QL", "G5QY",
+        "G5QH", "G5QT",
+        "GRY3", "GRYJ",
+        "GRXY", "GRYD",
+        "HFLP", "HFLV",
+        "GRXT", "GRY7",
+        "GRXG", "GRXH",
+        "GRX1", "GRX2",
+        "HFM0", "HFM4",
+        "GRWL", "GRWM",
+        "HG7T", "HG89", "HG78",
+        "HG7M", "HG84", "HG73",
+        "HG7H", "HG80", "HG6Y",
+        "HGYH", "HFYW", "HGY4",
+        "HFY9", "HGYN", "HGXY",
+        "HG06", "HG0C", "HG02",
+        "JC6M", "JC6V", "JC6Q",
+        "N1N2", "N1N6", "N1MY",
+        "JC69", "JC6J", "JC6F",
+        "JCLT", "JCLX", "JCLP",
+        "N1YW", "N200", "N1YR",
+        "JCM4", "JCM7", "JCM1"
       ], 
+      "Rose Gold" : [
+        "GRY4", "GRYK",
+        "GRY0", "GRYF",
+        "HFLQ", "HFLW",
+        "GRXV", "GRY8",
+        "GRXK", "GRXL",
+        "GRX4", "GRX5",
+        "HFM1", "HRM5",
+        "GRWP", "GRWQ",
+        "HG7V", "HG8C","HG79",
+        "HG7N", "HG85", "HG74",
+        "HG7J", "HG81", "HG70",
+        "HFYJ", "JFYX", "HGY5",
+        "HGYC", "HFYP", "HFY0",
+        "HG07", "HG0F", "HG03"
+      ],
+      "Jet Black" : [
+        "HG7W", "HG8D", "HG7D",
+        "HG7P", "HG86", "HG75",
+        "J5KN", "J5KP", "J5KM",
+        "HFYK", "JFYY", "KFY6",
+        "HGYD", "HFYQ", "HFY1",
+        "J5KR", "J5KT", "J5KQ"
+      ],
       "Forest Green" : [
         "N6YQ", "N6YG", "N6YW",
         "N6XW", "N6Y9", "N6YQ", 
@@ -187,6 +286,73 @@
         "N70Q", "N715", "N709",
         "N70L", "7111", "N705", 
         "N70G", "N70W", "N701"
+      ],
+      "Black" : [
+        "KXL8", "KXKG", "KXLQ", "KXMD",
+        "KXKW", "KXK6", "KXLF", "KXM5",
+        "KXKN", "KXK1", "KXKX", "KXLY", 
+        "N72Y", "N73L", "N747",
+        "N72Q", "N73D", "N741",
+        "N72J", "N735", "N73T",
+        "HG7Q", "HG87", "HG76",
+        "HG7K", "HG82", "HG71",
+        "HG7F", "HG7X", "HG62",
+        "HFYF", "HFYT", "HFY2",
+        "HGY7", "HGYL", "HFXW", 
+        "HG04", "HG08", "HG00"
+      ], 
+      "White" : [
+        "KXL9", "KXKH", "KXLR", "KXMF",
+        "KXKY", "KXK8", "KXLH", "KXM6", 
+        "KXKP", "KXK2", "KXL1", "KXM0",
+        "N730", "N73M", "N748",
+        "N72R", "N73F", "N742",
+        "N72K", "N736", "N73V",
+        "GHKK"
+      ],
+      "Red" : [
+        "KXLD", "KXKJ", "KXLT", "KXMG",
+        "KXL0", "KXK9", "KXLL", "KXM7",
+        "KXKQ", "KXK3", "KXL3", "KXM1", 
+        "N731", "N73N", "N749", 
+        "N72T", "N73G", "N743", 
+        "N72L", "N737", "N73W",
+        "HX99", "HX9D", "HX97",
+        "HX98", "HX9C", "HX96",
+        "HX9K", "HX9L", "HX9J", 
+        "HX9G", "HX9H", "HX9F",
+        "JWF8", "JWFC", "JWF6",
+        "JWF7", "JWF9", "JWF5",
+        "JWLN", "JWLQ", "JWLL",
+        "JWLM", "JWLP", "JWLK"
+      ], 
+      "Yellow" : [
+        "KXLG", "KXKK", "KXLV", "KXMH", 
+        "KXL2", "KXKC", "KXLM", "KXM8",
+        "KXKR", "KXK4", "KXL5", "KXM2",
+        "N732", "N73P", "N74C",
+        "N72V", "N73H", "N744", 
+        "N72M", "N738", "N73X"
+      ], 
+      "Coral" : [
+        "KXLJ", "KXKL", "KXLW", "KXMJ", 
+        "KXL4", "KXKD", "KXLN", "KXM9",
+        "KXKT", "KXK5", "KXL7", "KXM3"
+      ],
+      "Blue" : [
+        "KXLK", "KXKM", "KXLX", "KXMK",
+        "KXL6", "KXKF", "KXLP", "KXMC",
+        "KXKV", "KXK7", "KXLC", "KXM4"
+      ],
+      "Purple" : [
+        "N733", "N73Q", "N74D",
+        "N72W", "N73J", "N745",
+        "N72N", "N739", "N73Y"
+      ], 
+      "Green" : [
+        "N734", "N73R", "N74F",
+        "N72X", "N73K", "N746", 
+        "N72P", "N73C", "N740"
       ]
   }
 }
