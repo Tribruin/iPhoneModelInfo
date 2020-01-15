@@ -132,5 +132,61 @@
     "iPhone12,5": {
       "1": "Space Grey"
     }
+  },
+  "ColorsBySN" : {
+      "Space Grey" : [
+        "JCL6", "JCL8", "JCLC",             
+        "JCLF", "JCLH", "JCLK", 
+        "KPFX", "KPG7", "KPGK", "KPGX",
+        "KPFT", "KPG4", "KPGG", "KPGT",
+        "KPFP", "KPG1", "KPGC", "KPGN",
+        "KPHK", "KPH7", "KPHW", "KPJ6",
+        "KPHG", "KPH4", "KPHR", "KPJ3",
+        "KPHC", "KPH1", "KPHC", "KPJ0",
+        "N6XX", "N6YC", "N6YR", 
+        "N6XR", "N6Y6", "N6YM",
+        "N6XM", "N6Y2", "N6YH",
+        "N70M", "N712", "N706",
+        "N70H", "N70X", "N702",
+        "N70C", "N70R", "N6YX"
+      ],
+      "Silver" : [
+        "JCL7", "JCL9", "JCLD",
+        "JCLG", "JCLJ", "JCLL",
+        "KPFY", "KPG8", "KPGL", "KPGY",
+        "KPFV", "KPG5", "KPGH", "KPGV",
+        "KPFQ", "KPG2", "KPGD", "KPGP",
+        "KPHL", "KPH8", "KPHX", "KPJ7", 
+        "KPHH", "KPH5", "KPHT", "KPJ4", 
+        "KPHD", "KPH2", "KPHP", "KPJ1",
+        "N6XY", "N6YD", "N6YT", 
+        "N6XT", "N6Y7", "N6YN",
+        "N6XN", "N6Y3", "N6YJ",
+        "N70N", "N713", "N707",
+        "N70J", "N70Y", "N703", 
+        "N70D", "N70T", "N6YY"
+      ], 
+      "Gold" : [
+        "KPG0", "KPG9", "KPGM", "KPH0",
+        "KPGW", "KPG6", "KPGJ", "KPGW",
+        "KPFR", "KPG3", "KPGF", "KPGQ",
+        "KPHM", "KPH9", "KPHY", "KPJ8",
+        "KPHJ", "KPH6", "KPHV", "KPJ5", 
+        "KPHF", "KPH3", "KPHQ", "KPJ2",
+        "N6X0", "N6YF", "N6YV",
+        "N6XY", "N6Y8", "N6YP", 
+        "N6XP", "N6Y4", "N6YK",
+        "N70P", "N714", "N708",
+        "N70K", "N710", "N704", 
+        "N70F", "N70V", "N700"
+      ], 
+      "Forest Green" : [
+        "N6YQ", "N6YG", "N6YW",
+        "N6XW", "N6Y9", "N6YQ", 
+        "N6XQ", "N6Y5", "N6YL", 
+        "N70Q", "N715", "N709",
+        "N70L", "7111", "N705", 
+        "N70G", "N70W", "N701"
+      ]
   }
 }
