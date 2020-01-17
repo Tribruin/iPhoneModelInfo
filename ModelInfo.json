@@ -80,60 +80,7 @@
     "iPhone12,1": "iPhone 11",
     "iPhone12,3": "iPhone 11 Pro",
     "iPhone12,5": "iPhone 11 Pro Max"
-
   },
-  "Colors": {
-    "iPad5,1": {
-      "#e1e4e3": "White",
-      "iPad7,4": {
-        "2": "Space Grey"
-      }
-    },
-    "iPhone7,1": {},
-    "iPhone7,2": {},
-    "iPhone8,1": {},
-    "iPhone8,2": {},
-    "iPhone8,4": {},
-    "iPhone9,1": {
-      "1": "Black"
-    },
-    "iPhone9,2": {
-      "1": "Black"
-    },
-    "iPhone9,3": {
-      "1": "Black"
-    },
-    "iPhone9,4": {
-      "1": "Black"
-    },
-    "iPhone10,1": {
-      "8": "Space Grey"
-    },
-    "iPhone10,4": {
-      "8": "Space Grey"
-    },
-    "iPhone10,2": {
-      "8": "Space Grey"
-    },
-    "iPhone10,5": {
-      "8": "Space Grey"
-    },
-    "iPhone10,3": {},
-    "iPhone10,6": {},
-    "iPhone11,8": {
-      "1": "Black"
-    },
-    "iPhone11,2": {},
-    "iPhone11,6": {},
-    "iPhone12,1": {},
-    "iPhone12,3": {
-      "1": "Space Grey"
-    },
-    "iPhone12,5": {
-      "1": "Space Grey"
-    }
-  },
-
   "ColorsBySN" : {
       "Space Grey" : [
         "JCL6", "JCL8", "JCLC",             
